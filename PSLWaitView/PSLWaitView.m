@@ -1,8 +1,8 @@
 //
 //  PSLWaitView.m
 //
-//  Created by Pisson on 15-1-16.
-//  Copyright (c) 2015年 pisson. All rights reserved.
+//  Created by pisson on 2016/10/28.
+//  Copyright (c) 2016年 pisson. All rights reserved.
 //
 
 #import "PSLWaitView.h"
